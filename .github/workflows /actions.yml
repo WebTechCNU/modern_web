@@ -6,7 +6,7 @@ on:
       - main  # Adjust the branch name as needed
 
 jobs:
-  check-index-html:
+  sample-student-step:
     runs-on: ubuntu-latest
 
     steps:
